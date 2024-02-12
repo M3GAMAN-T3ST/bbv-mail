@@ -2,9 +2,9 @@ Config = {}
 Config.Debug = true
 
 Config.Settings = {
-    Target = "ST", -- OX/QB/BT/ST
-    Inventory = 'OX', -- QB/OX
-    Menu = 'OX', -- QB/OX
+    Target = "QB", -- OX/QB/BT/ST
+    Inventory = 'QB', -- QB/OX
+    Menu = 'QB', -- QB/OX
     SendPrice = 250,
     PostSize = 25000,
     PostSlots = 10,
